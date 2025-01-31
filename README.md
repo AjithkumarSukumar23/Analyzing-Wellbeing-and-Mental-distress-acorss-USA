@@ -49,7 +49,7 @@ By integrating datasets from the **CDC, FBI, and World Population Review**, this
 ✅ **Long-Term Monitoring:** Continuous data collection to track trends  
 
 ## **Tech Stack**  
-- 📊 **Data Visualization:** Tableau Prep builder
+- 📊 **Data Visualization:** Tableau Prep builder, Tableau Desktop, Excel
 
 
 
